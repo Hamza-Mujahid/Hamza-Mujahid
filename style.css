@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mainContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.sideContainer {
+    width: 30%;
+    height: 100%;
+}
+
+.miniContainers {}
+
+.section1 {
+    width: 100%;
+    height: 30%;
+}
+
+.imgContainer {}
+
+.imgContainer img {
+    width: 100%;
+    height: 10%;
+}
+
+.bigSideContainer {
+    width: 70%;
+    height: 100%;
+}
